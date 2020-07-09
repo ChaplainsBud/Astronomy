@@ -11,8 +11,10 @@ III. Greeks (Hipparchus, Heraclides, Aristarchus)
 IV. Romans (Almagest, Ptolemy)
 V. Arabs (Al-Farghani: made Almagest popular in West, Al-Sufi, )
 VI. Europeans
-VII. Americans
+VII. Americans && Russians (Language of astronomy)
 VIII. China? East Asia... || India
 // teach in South Korea; tutor East Asians
 // will we need to learn Chinese and Sanskrit to get the language of 22nd century science? 
 // Greek and Roman thought translated into Sanskrit... 
+
+=> Will China be the first on Mars, or take the Moon to Mars.. then Andromeda? 
